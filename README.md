@@ -26,16 +26,6 @@ print(res)
 
 ```
 
-# 捐赠 （如果项目有帮助到您，可以选择捐赠一些费用用于ddddocr的后续版本维护，本项目长期维护）
-
- ![Test](https://cdn.wenanzhe.com/img/zhifubao.jpg!/scale/30) 
- ![Test](https://cdn.wenanzhe.com/img/weixin.jpg!/scale/30)
-
-# 赞助合作商
-
-|                                                            | 赞助合作商 | 推荐理由                                                                                             |
-|------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------|
-| ![YesCaptcha](https://cdn.wenanzhe.com/img/yescaptcha.png) | [YesCaptcha](https://yescaptcha.com/i/NSwk7i) | 谷歌reCaptcha验证码 / hCaptcha验证码 / funCaptcha验证码商业级识别接口 [点我](https://yescaptcha.com/i/NSwk7i) 直达VIP4 |
 
 # 1.4.0版本更新内容
 
@@ -252,15 +242,3 @@ cv2.imwrite("result.jpg", im)
 
 [crawlab](https://github.com/crawlab-team/crawlab)
 
-# 交流群 （个人微信太懒了不一定会通过）
- 
- ![六群链接](https://cdn.wenanzhe.com/img/group.jpg!/scale/50)
- ![Test](https://cdn.wenanzhe.com/img/mmqrcode1640418911274.png!/scale/50) 
-
-# 主要贡献者
-
-<span style="margin: 0 5px;" ><a href="https://github.com/kerlomz" ><img src="https://cdn.wenanzhe.com/img/16838877.jpg!/scale/50" /></a></span>
-
-## Star 历史
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sml2h3/ddddocr&type=Date)](https://star-history.com/#sml2h3/ddddocr&Date)
